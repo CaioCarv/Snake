@@ -1,2 +1,2 @@
 # Snake
-Famoso jogo da cobrinha 
+O Famoso jogo da cobrinha 
