@@ -1,9 +1,9 @@
 .titu{
-  text-align: center;
+  background-color: black;
+  max-width: max-content;
   font-size: larger;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: black;
   color: red;
   margin-bottom: 1rem;
-  margin-right: 71rem;
+  margin-right: 400px;
 }
